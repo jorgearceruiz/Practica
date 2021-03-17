@@ -36,6 +36,7 @@ public class manana1 {
 					}
 			}else{
 				System.out.println("|    |");
+System.out.println("Error");
 			}		
 		}
 	}
